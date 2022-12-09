@@ -1,8 +1,5 @@
 import React from 'react';
 import './style.css';
-import Bible from './components/Bible';
-import Test from './components/Test';
-import dailyData from './data/data.jsx';
 import { motion } from 'framer-motion';
 
 export default function App() {
